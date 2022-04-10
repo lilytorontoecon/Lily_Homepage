@@ -1,0 +1,19 @@
+---
+title: "Self-Control Assistant"
+date: 2022-04-01T05:00:04-04:00
+draft: false
+featured_image: loan.jpeg
+---
+
+I (and my coauthor) cooperate with a *national-scale financial company* in China that issues *uncollateralized micro-loans*.
+
+In a *field experiment*, we design a *new financial product* that helps preventing delinquency.
+
+The new financial product is issued over 8 cities across several provinces of China.
+
+- As the treatment effect, our product reduces the delinquency rate by approximately 1/5.
+- Over 70% of our over 1000 customers voluntarily adopt this new product rather than the original product as they are aware of their self-control issues.
+- These adopters have a substantially higher delinquency rate than the average because of selection.
+- The results and the theoretical framework we built up for this experiment offer a new way to manage the issue of *over-lending and the resulting mis-management of personal finance*.
+
+(Free Image：Karolina Grabowska, from Pexels)

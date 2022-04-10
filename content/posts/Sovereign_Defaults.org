@@ -1,0 +1,19 @@
+---
+title: "Sovereign Defaults"
+date: 2022-04-08T08:20:48-04:00
+draft: false
+featured_image: '/baseline084-1.jpg'
+---
+
+Sovereign default is a prevalent and puzzling *monetary* phenomenon among the emerging economies (e.g. Argentina).
+
+The classic Eaton-Gersovitz model of *sovereign defaults* assumes that the sovereign issues external bonds at a market-determined interest rate spread, and that sovereign defaults are voluntary (being a optimal choice).
+
+Given that the literature has identified a *very large default cost*---a 14% drop in output for Argentina in 2001---it becomes puzzling to explain why a sovereign would first over-borrow and then default subsequently in a predictable way. 
+
+To address this puzzle, I introduce *Gul and Pesendorfer (2001) self-control and temptation preferences* to modify the Eaton-Gersovitz model. The lack of self-control induces over-consumption by keeping a high level of debt; writing off this large debt by declaring sovereign default becomes a more lucrative option. *My calibration successfully mimics the interest rate dynamics of Argentina and explains her 2001 default*. Furthermore, my model can *explain why emerging economies tend to default while the developed countries do not*---a longstanding puzzle in this literature.
+
+*My baseline versus the benchmark*
+
+[[../../baseline084-1.jpg]]
+

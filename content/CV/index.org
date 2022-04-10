@@ -1,0 +1,113 @@
+---
+title: My Personal Info and Research
+description: This page contains my personal info and a description of my research. Brief descriptions for most of my research work are available (see the links).
+---
+
+
+
+* __Personal Info__
+
+Email: [[mailto: lli.li@utoronto.ca][lli.li@utoronto.ca]]
+
+*Positions*: 
+
+- Department of Economics, University of Toronto (September 2019-) *Lecturer*
+- Jinan University-University of Birmingham Joint Institute, Jinan University (September 2018-) *Assistant Professor*
+- School of Business Administration, Shanghai University of Finance and Economics (2015-2018) *Assistant Professor*
+
+
+
+*Education History*
+
+|                       |             |   |                         |
+|-----------------------+-------------+---+-------------------------|
+| University of Toronto | (2007-2014) | - | *Ph.D. in Economics*    |
+| University of Guelph  | (2006-2007) | - | M.A. in Economics       |
+| University of Windsor | (2005-2006) | - | M1 Program in Economics |
+|-----------------------+-------------+---+-------------------------|
+|                       |             |   |                         |
+
+
+
+*Citizenship*:  Canadian
+
+*Languages*: English, Chinese
+
+* Brief Description
+I am a *macroeconomist* graduated from University of Toronto (UofT) in 2015.  My research builds around the theme of *self-control* and other related behavioral biases. I apply these theories to study *monetary phenomena* such as *sovereign defaults* and *consumer delinquency*, as well as other phenomena (education peer effects, marriage, etc.). To this end, I conduct *macroeconomic modelling* and verify its predictions using *field experimental methods* depending on the particular issue at hand. The field experiments also serve as the *microfoundation* for my macroeconomic models. 
+
+
+
+* Major Achievements and Projects in Progress
+
+- Organized a *large-scale education field experiment*
+  - Involves over 3,000 students in 10 schools. Over 30 research assistants.
+  - The experiment investigates *peer effects within classrooms*. 
+- Conducted a *national-scale financial field experiment*
+  - Alter a standard instalment loan contract (a real financial
+    product) in the unsecured loan market).
+  - The contract re-design is based on behavioral economics.
+  - Over 70% of the borrowers choose our new contract and the delinquency rate drops by approximately 1/5. Written draft available.
+- Introduces *non-cognitive questions* to the university entrance exam of a new university based in Shenzhen, China.
+- Conducting an education field experiment studying *peer control* (in contrast to self-control) in Hubei, China. 
+- Established the *co-operation program* between J-BJI and Ryerson
+    University, Canada
+  - In *sole charge* of initial contact and subsequent negotiations.
+  - Memorandum about to be signed by both universities; currently in halt because of Covid-19.
+ 
+
+* Research
+- Sovereign Defaults and Interest Rate Spread in the Presence of Self-Control Problems. *Under Review*.	[[../posts/sovereign_defaults][(Link to Post)]]
+- Reconsidering Optimal Peer Assignment: How Do Non-Cognitive Peer Differences Matter? (Joint with Eric Mak and Chunchao Wang). *Under Review*. [[../posts/optimal_assignment][(Link to Post)]]
+- Assisting Self-Control in the Unsecured Credit Market (Joint with Eric Mak) [[../posts/self-control_assistant][(Link to Post)]]
+- Marriage, Divorce, Remarriage (Joint with Eric Mak and Shouyong Shi)
+- Ju, J., Li, L., Nie, G., Shi, K., & Wei, S. J. (2019). Nonlinear capital flow tax: Capital flow management and financial crisis prevention in China. *China & World Economy, 27(4), 1-28. (Wiley Publications)*
+- Welfare Implications of Consumption Tax for Sovereign Default: The Argentine Case
+- Welfare Effects of Increasing Borrowing Limit in the Presence of Self-Control Problem
+- Conspicuous Consumption and Within-Group Income Inequality}
+	(Joint with Eric Mak and Margarita Pivovarova)
+- Self-Control, Place of Origin, and Academic Performance} (Joint with Eric Mak and Lei Tang)
+
+* Referee Experience
+
+Journal of Labor Economics
+
+
+{{< collapse >}}
+{{< collapse/above >}}
+*Conference and Seminar Presentations* (click to expand)
+{{< /collapse/above >}}
+
+{{< collapse/below >}}
+- 2019 Guelph University, University of Toronto, Brock University, Harvard University, Penn State University, Munich Summer Institute, 2019 International Symposium on Contemporary Labor Economics
+- 2018 Jinan University, Zhongshan University, Chinese Labor Economists Annual Conference, Fourth Guangzhou Econometrics Workshop
+- 2017 Shandong University, Brock University, Guelph University, Summer Workshop on Money, Banking, Payments and Finance (Bank of Canada)
+- 2016 Huazhong University of Science and Technology, Southern University of Science and Technology of China, Brock University; Summer Workshop on Money, Banking, Payments and Finance (Federal Reserve Bank of Chicago)
+- 2015 Lingnan College, Sun Yat-sen University; World Congress of the Econometrics Society (Montreal); Summer Workshop on Money, Banking, Payments and Finance (Federal Reserve Bank of St. Louis)
+- 2014 Tsinghua University
+- 2013 International Conference on Computing in Economics and Finance, Vancouver; Georgetown Center for Economic Research Biennial conference, Washington, DC; Midwest Macroeconomics Meeting, Urbana-Champaign
+- 2012 Rimini Conference in Economics and Finance, Toronto;  2012 Canadian Economics Association, Calgary; PhD Workshop in Economics, Guelph
+- 2011 Canadian Economics Association, Ottawa
+{{< /collapse/below >}}
+{{< /collapse >}} 
+  
+
+{{< collapse >}}
+{{< collapse/above >}}
+*Awards* (click to expand)
+{{< /collapse/above >}}
+
+{{< collapse/below >}}
+- Non-Linear Capital Flow Tax: The Case of China (Joint with Shang-jin Wei, Jiandong Ju, Shu Lin, Guangyu Nie)---*China Financial Research Conference Best Paper Award 2016*.
+- Dorothy J. Powell Graduate Scholarship In International Economics 2013
+- Edward B. Kernaghan Fellowship 2013
+- Doctoral Completion Award, 2012-2013
+- SGS Conference Grant 2012; Lawrence and Tracy Smith Bursary 2011-2012 - Department of Economics Student Award 2012
+- University of Toronto Graduate Fellowship 2007-2010
+- Economics Alumni Masters Scholarship for the Highest Cumulative Average MA Program, 2007
+{{< /collapse/below >}}
+{{< /collapse >}} 
+
+
+
+

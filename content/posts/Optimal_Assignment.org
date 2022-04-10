@@ -1,0 +1,17 @@
+---
+title: "Optimal Peer Assignment"
+date: 2022-04-01T14:25:42-04:00
+draft: false
+featured_image: 'SeatingPlan_New.jpg'
+categories: research
+---
+
+In this project, I (and my coauthors) study how peer effects work inside the classroom. We tackle a new *optimal assignment problem*: how the teacher (as a "social planner") should optimally assign students so that their positive social interactions are maximized? The social planner has the power to control the *spatial proximity* of students. However, we find that the *social proximity* also matters.
+
+The optimal peer assignment depends on both the *academic peer effects* and *the distribution of students* in each particular class.
+
+See the below for an Example Seating Plan in a typical Chinese classroom: 
+
+[[../../SeatingPlan_New.jpg]]
+
+Students are packed in paired columns, so that each student has a fixed deskmate. If only academic achievement matters, the optimal matching is *positive assortative* (PAM). We find that *social proximity* can break down this PAM.
