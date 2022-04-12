@@ -2,7 +2,7 @@
 title: "Sovereign Defaults"
 date: 2022-04-08T08:20:48-04:00
 draft: false
-featured_image: '/baseline084-1.jpg'
+featured_image: '3compareAreallnoX.png'
 ---
 
 Sovereign default is a prevalent and puzzling *monetary* phenomenon among the emerging economies (e.g. Argentina).
@@ -15,5 +15,5 @@ To address this puzzle, I introduce *Gul and Pesendorfer (2001) self-control and
 
 *My baseline versus the benchmark*
 
-[[../../baseline084-1.jpg]]
+[[../../3compareAreallnoX.png]]
 
