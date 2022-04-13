@@ -9,15 +9,15 @@ Unless specified, all courses are for *undergraduates*.
 ** St. George Campus 
 - ECO200 *Microeconomic Theory* (2021 Summer, Year Course)
 - ECO365 *International Monetary Economics* (2021 Summer)
-- ECO380 *Market, Competition, and Strategy* (2019, 2020, 2021 Summer)\\
+- ECO380 *Market, Competition, and Strategy* (2019, 2020, 2021 Summer)
   (equivalent to Industrial Organization) 
 - ECO208 *Macroeconomic Theory*   (2020 Summer)
 
 ** Scarborough Campus
 - MGEC41 *Industrial Organization*  (2020-2021 Winter)
-- MGEB01 *Price Theory*  (2019-2020 Fall, 2020-2021 Fall)\\
+- MGEB01 *Price Theory*  (2019-2020 Fall, 2020-2021 Fall)
 (equivalent to Microeconomic Theory and Applications)
-- MGEB02 *Price Theory: A Mathematical Approach*  (2020 Fall)\\
+- MGEB02 *Price Theory: A Mathematical Approach*  (2020 Fall)
 (equivalent to Microeconomic Theory)
 
 ** Mississauga Campus
